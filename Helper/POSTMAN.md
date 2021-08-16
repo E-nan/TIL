@@ -18,7 +18,7 @@ POSTMAN사이트에 접속해서 회원가입 후, 다운로드하여 어플리�
 
 다운로드 받으면 이러한 UI가 나타나는데 이 화면에서 직접 개발한 API 테스트를 진행할 수 있다.
 
-![image](https://user-images.githubusercontent.com/51812215/129565805-be2eab81-8f74-4ef6-940d-b079dcff5d6c.png)
+![image](https://user-images.githubusercontent.com/51812215/129571668-3734706d-5d33-49dd-bb02-fc7e7886c537.png)
 
 ### 사용법
 
@@ -30,7 +30,7 @@ GET API를 테스트하기 위해 간단하게 Test를 반환하는 API를 만�
 
 API에 접속할 수 있는 URL을 입력하고 GET, POST 방식을 선택한 다음, SEND를 누르면 화면처럼 응답 결과가 보여진다.
 
-![image](https://user-images.githubusercontent.com/51812215/129569579-b6b722af-fa06-43ef-b2dd-ba980acbf4db.png)
+![image](https://user-images.githubusercontent.com/51812215/129571633-78f89a4c-5786-4dfd-9066-e6a4abc20c06.png)
 
 또는, GET 방식의 파라미터 테스트를 하고 싶다면 마찬가지로 먼저 API를 만든다.
 
@@ -38,9 +38,4 @@ API에 접속할 수 있는 URL을 입력하고 GET, POST 방식을 선택한 �
 
 이번엔 API에 맞게 파라미터를 설정해주고, 마찬가지로 SEND를 누르면 응답 결과가 보여진다
 
-![image](https://user-images.githubusercontent.com/51812215/129570435-8e761b8d-cf8a-4776-9b7c-da05ec2a3281.png)
-
-
-### POST
-
-POST API는 
+![image](https://user-images.githubusercontent.com/51812215/129571525-be4500db-2015-4d0e-9871-6a1d19b79ad2.png)
