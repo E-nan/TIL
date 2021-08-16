@@ -4,5 +4,5 @@ Today I Learned
 
 ## Helper
 
-* POSTMAN
-  * [POSTMAN](https://github.com/E-nan/TIL/blob/main/README.md)
+* API 테스트
+  * [POSTMAN](https://github.com/E-nan/TIL/blob/main/Helper/POSTMAN.md)
